@@ -6,7 +6,7 @@ setup(
     description='Library for uni project.',
     author='egoloven',
     author_email='eugene.goloven@gmail.com',
-    url='',  # Replace with your repository URL
+    url='https://github.com/egoloven/egoloven-maze-lib.git',
     packages=find_packages(),  # This finds all the Python packages (directories with __init__.py)
     classifiers=[
         'Programming Language :: Python :: 3',
